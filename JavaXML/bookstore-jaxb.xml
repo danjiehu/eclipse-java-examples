@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bookStore>
+    <storeName>Fraport Bookstore</storeName>
+    <storeLocation>Frankfurt Airport</storeLocation>
+    <book>
+        <author>Neil Strauss</author>
+        <title>The Game</title>
+        <publisher>Harpercollins</publisher>
+        <isbn>978-0060554736</isbn>
+    </book>
+    <book>
+        <author>Bill Clinton</author>
+        <title>My Life</title>
+        <publisher>Arrow</publisher>
+        <isbn>978-0099441359</isbn>
+    </book>
+</bookStore>
